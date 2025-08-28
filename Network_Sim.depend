@@ -1,41 +1,16 @@
 # depslib dependency file v1.0
-1756306200 source:c:\users\202356826\desktop\network_sim\main.cpp
-	<iostream>
-	"../include/Simulator.h"
-	"../include/Node.h"
-	"../include/Packet.h"
+1756306200 source:c:
 
-1756306200 c:\users\202356826\desktop\network_sim\include\simulator.h
-	<vector>
-	<memory>
-	"Event.h"
-	"Node.h"
 
-1756306288 c:\users\202356826\desktop\network_sim\include\event.h
-	"Packet.h"
-	<memory>
 
-1756306200 c:\users\202356826\desktop\network_sim\include\packet.h
 
-1756306200 c:\users\202356826\desktop\network_sim\include\node.h
-	<string>
-	<memory>
-	"Packet.h"
-	"Event.h"
 
-1756306200 source:c:\users\202356826\desktop\network_sim\src\event.cpp
-	"Event.h"
 
-1756306200 source:c:\users\202356826\desktop\network_sim\src\node.cpp
-	"../include/Node.h"
-	"../include/Simulator.h"
-	<iostream>
 
-1756306200 source:c:\users\202356826\desktop\network_sim\src\packet.cpp
-	"Packet.h"
 
-1756306200 source:c:\users\202356826\desktop\network_sim\src\simulator.cpp
-	"../include/Simulator.h"
-	<algorithm>
-	<iostream>
+
+
+
+
+
 
